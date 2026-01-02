@@ -1,4 +1,4 @@
-Z80 8-bit computer design (For educational purposes only)
+Z80 8-bit computer design (For educational purposes only).
 
 The main motive for making this computer design was pure intrigue in retro computers, working of computers and overall interest in computational electronics.
 
