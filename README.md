@@ -9,6 +9,7 @@ This Design is a student project, for the students. This design was the first it
 But i will be constantly try to make this is a better piece of hardware.
 This project has many problems and scopes of improvements which are highlighted in the mistakes and scopes of improvement file.
 
+
 When I started working on this project, I started learning about the various delays, clock signals, control signals and how does z80 computes, stores and outputs.
 This helped me learn about how computers work in a broader sense, as it created a basic idea about it.
 
